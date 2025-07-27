@@ -33,8 +33,7 @@ This dashboard is designed specifically for **high school students planning to a
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ai-tuition-dashboard.git
-cd ai-tuition-dashboard
+[git clone https://github.com/your-username/ai-tuition-dashboard.git](https://github.com/slotza007/MyTCAS-Dashboard.git)
 ```
 
 ### 2. Install dependencies
